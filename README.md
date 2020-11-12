@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ...Minecraft Mods written In Java with the Forge API
+- 🌱 I’m currently learning ...AI using Python and SQL using MySQL
+- 💬 Ask me about ...My past projects!
+- 📫 How to reach me: ...amae804@gmail.com
 <!--
 **VincentHuto/VincentHuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

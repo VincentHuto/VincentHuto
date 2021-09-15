@@ -1,4 +1,3 @@
-### Hi there 👋
 - Software Development Intern at MG&E
 - 🔭 I’m currently working on ...Minecraft Mods written In Java with the Forge API
 - 🌱 I’m currently learning ...AI using Python and SQL using MySQL

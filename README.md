@@ -1,4 +1,5 @@
 - Software Development Intern at MG&E
+- Some of my currently public projects can be found here https://www.curseforge.com/members/vincent_huto/projects
 - 🔭 I’m currently working on ...Minecraft Mods written In Java with the Forge API
 - 🌱 I’m currently learning ...AI using Python and SQL using MySQL
 - 📫 How to reach me: ...vince@comarotoprogramming.com,amae804@gmail.com, <link src = "https://comarotoprogramming.com/">
